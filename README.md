@@ -14,7 +14,7 @@
 
 ### Wie lerne ich Programmieren bzw. Java ?
 ---
-Um die Konzepte der Programmierung zu verstehen muss man einmal etwas weiter ausholen. Dir muss klar sein das, dass einfache lesen des Guides dich nicht zum Master of the Universe macht. Programmieren lernt man daDurch dass man programmiert. Learning by doing, ist dass Stichwort. 
+Um die Konzepte der Programmierung zu verstehen muss man einmal etwas weiter ausholen. Dir muss klar sein das, dass einfache lesen des Guides dich nicht zum Master of the Universe macht. Programmieren lernt man da durch dass man programmiert. Learning by doing, ist dass Stichwort. 
 
 Also los gehts !
 
@@ -97,7 +97,7 @@ Hier erkläre ich kurz die JVM. Da wir gelernt haben dass Java eine Bytecodespra
 Richtig, *Java Virtual Machine* kurz ***JVM***.
 Darin wird unser gesamter Javacode verarbeitet und bei bedarf ausgeführt.
 
-Der Aufbau der ***JVM***:
+Der Aufbau der ***JVM***: <br /> <br />
 ![JVM image](https://upload.wikimedia.org/wikipedia/commons/d/dd/JvmSpec7.png)
 
 *Sieht kompliziert aus. Ist es auch, wir kommen darauf später zurück.*
@@ -124,7 +124,7 @@ Ich schreibe für alle drei Programme (VSCode, IntelliJ und Eclipse) einen Guide
 ## Wie geht es weiter ?
 
 Nun fragst Du dich sicher, **Und jetzt ?**
-Im nächsten Kapitel, werden wir nun endlich Programmieren. Klick dafür [hier](/docs/1-Unser-Erstes-Programm.md).
+Im nächsten Kapitel, werden wir uns die IDE Eclipse anschauen, damit alles reibungslos in die Programmierung übergehen kann. Klick dafür [hier](/docs/Editor-und-IDE/Eclipse.md).
 
 Eine weiter Sache die von Vorteil wäre ist, das Du Git lernst. Es ist ganz einfach klick dafür [hier](https://github.com/FOI-12/Getting-Started). Lies es dir in Ruhe Durch, Du findes Git im Abschnitt **Informationen** (Ganz oben).
 
