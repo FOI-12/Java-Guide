@@ -36,7 +36,7 @@ Als ersten Schritt öffnen wir Eclipse.
 
 Ihr findet auch bei diesem Fenster wieder.
 
-![Eclipse Workspace](../../images/Eclipse_First_Start)
+![Eclipse Workspace](../../images/Eclipse_First_Start.png)
 
 Wählt dort einen Ort aus, wo Ihr eure Projekt abspeichern wollt. Ihr könnt Ihn jederzeit ändern oder auch mehrere Workspaces benutzen.
 
@@ -80,7 +80,7 @@ public class HelloWorld {
 
 Als letztes klick Ihr oben auf den grünen Button mit dem **`>`** Zeichen. Ihr seht unten nun die Ausgabe **`Hello World`**
 
-![Eclipse Ausgabe](../../images/Eclipse_Output)
+![Eclipse Ausgabe](../../images/Eclipse_Output.png)
 
 
 ---
