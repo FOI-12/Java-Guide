@@ -14,7 +14,7 @@
 
 ### Wie lerne ich Programmieren bzw. Java ?
 ---
-Um die Konzepte der Programmierung zu verstehen muss man einmal etwas weiter ausholen. Dir muss klar sein das, dass einfache lesen des Guides dich nicht zum Master of the Universe macht. Programmieren lernt man da durch dass man programmiert. Learning by doing, ist dass Stichwort. 
+Um die Konzepte der Programmierung zu verstehen muss man einmal etwas weiter ausholen. Dir muss klar sein das, dass einfache lesen des Guides dich nicht zum Master of the Universe macht. Programmieren lernt man dadurch dass man programmiert. Learning by doing, ist das Stichwort. 
 
 Also los gehts !
 
