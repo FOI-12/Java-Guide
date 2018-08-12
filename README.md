@@ -13,16 +13,16 @@
 
 ### Wie lerne ich Programmieren bzw. Java ?
 ---
-Um die Konzepte der Programmierung zu verstehen muss man einmal etwas weiter ausholen. Dir muss klar sein das, dass einfache lesen des Guides dich nicht zum Master of the Universe macht. Programmieren lernt man dadurch dass man programmiert. Learning by doing, ist das Stichwort. 
+Um die Konzepte der Programmierung zu verstehen, muss man etwas weiter ausholen. Dir muss klar sein, dass einfaches Lesen des Guides dich nicht zum Master of the Universe macht. Programmieren lernt man dadurch, dass man programmiert. Learning by doing ist das Stichwort. 
 
-Also los gehts !
+Also los geht's!
 
 ---
 
 ### Ein paar generelle Sachen zur Programmierung
 ---
-Wie auch in unserer Sprache gibts es verschiedene Programmiersprachen. Es gibt z.B C, C++, Python, Java usw.
-Der große vorteil liegt aber darin, wenn Du eine Sprache kannst, hast Du es leicht weitere zu erlernen. Da die Konzepte gleich bleiben, es ist völlig egal ob ich eine Software in Java oder C++ schreibe. Die Programmiersprache ist nur das Werkzeug. Natürlich brauchen spezielle Programme auch spezielle techniken. Du kannst z.B schlecht einen Treiber für einen USB Stick mit Java schreiben dafür wird eher C verwendet, da Java nicht sehr Hardware nah ist, aber dazu später mehr.
+Wie auch in unserer Sprache gibt's es verschiedene Programmiersprachen. Es gibt z.B C, C++, Python, Java usw.
+Der große vorteil liegt aber darin, wenn Du eine Sprache kannst, hast Du es leicht weitere zu erlernen. Da die Konzepte gleich bleiben, es ist völlig egal, ob ich eine Software in Java oder C++ schreibe. Die Programmiersprache ist nur das Werkzeug. Natürlich brauchen spezielle Programme auch spezielle Techniken. Du kannst z.B schlecht einen Treiber für einen USB-Stick mit Java schreiben. Dafür wird eher C verwendet, da Java nicht sehr hardwarenah ist, aber dazu später mehr.
 
 ---
 
@@ -30,7 +30,7 @@ Der große vorteil liegt aber darin, wenn Du eine Sprache kannst, hast Du es lei
 ---
 Es gibt 3 Typen von Programmiersprachen, die ***Compiler-,***  ***Interpreter-*** und die sogenannten ***Bytecodesprachen***.
 
-Hä was ?
+Hä was?!
 
 ---
 
@@ -41,12 +41,12 @@ Die Compilersprachen sind vereinfacht gesagt, Sprachen die vom Computer in Masch
 01001101 01100001 01101100 01110100 01100101 00100000 01101001 01110011 01110100 00100000 01110011 01100101 01111000 01111001 
 ```
 
-**Vorteile**: Sehr schnell, Sehr Hardwarenah, Sehr geil  
-**Nachteile**: Fehler werden meistens erst spät erkannt, Es muss sehr viel auf die Hardware geachtet werden, Meistens nicht Plattformübergreifend
+**Vorteile**: sehr schnell, sehr hardwarenah, sehr geil  
+**Nachteile**: Fehler werden meistens erst spät erkannt, es muss sehr viel auf die Hardware geachtet werden, meistens nicht plattformübergreifend
 
 Compilersprachen sind z.B **C**, **C++** oder auch **Assembler**.
 
-So sieht es im Prozess aus:
+So sieht's im Prozess aus:
 
 ![Compilter Image](images/Compiler.png)
 
@@ -55,14 +55,14 @@ Der Prozess ist hier aber sehr **vereinfacht**.
 ---
 
 #### Interpretersprachen
-Wie der Name schon sagt werden diese Sprache Interpretiert. Doch was heißt das ?
+Wie der Name schon sagt, werden diese Sprache interpretiert. Doch was heißt das?
 
-Du hast eine Datei, die wird von einem Programm eingelesen und ausgeführt. Das spart Zeit, da man diese Datei nicht noch compileren muss. 
+Du hast eine Datei, die wird von einem Programm eingelesen und ausgeführt. Das spart Zeit, da man diese Datei nicht noch compilern muss. 
 
-**Vorteile**: kein Compiler ist nötig, Plattformunabhängig, Fehler werden bei der Laufzeit erkannt  
-**Nachteile**: Langsamer als Compilersprachen, Nicht Hardwarenah
+**Vorteile**: kein Compiler ist nötig, plattformunabhängig, Fehler werden bei der Laufzeit erkannt  
+**Nachteile**: langsamer als Compilersprachen, nicht hardwarenah
 
-Interpretersprachen sind z.b **Ruby**, **Python**, **JavaScript** oder **PHP**.
+Interpretersprachen sind z.B **Ruby**, **Python**, **JavaScript** oder **PHP**.
 
 Der Prozess sieht etwa so aus:
 
@@ -73,17 +73,17 @@ Aber auch hier gilt, sehr **vereinfacht**.
 ---
 #### Bytecodesprachen
 
-Kommen wir zur letzen Sprachenart, die Bytecodesprachen. Bei den ***Bytecodesprachen*** handelt es sich um eine mischung aus ***Compiler-*** und ***Interpretersprachen***.
-Die beiden Techniken werden sozusagen vereint. Dazu gehört aber noch eine VM *(Virtual Machine)*, die VM übernimmt das Compileren und Ausführen.
+Kommen wir zur letzen Sprachenart, die Bytecodesprachen. Bei den ***Bytecodesprachen*** handelt es sich um eine Mischung aus ***Compiler-*** und ***Interpretersprachen***.
+Die beiden Techniken werden sozusagen vereint. Dazu gehört aber noch eine VM *(Virtual Machine)*. Die VM übernimmt das Compilern und Ausführen.
 
-Die Dateien werden am anfang Interpretiert und in Bytecode umgewandlet. Danach wird dieser Bytecode von der VM compiliert und ausführbar gemacht.
+Die Dateien werden am Anfang interpretiert und in Bytecode umgewandelt. Danach wird dieser Bytecode von der VM kompiliert und ausführbar gemacht.
 
-Jetzt ist es aber so, hat man das Ausführbareprogramm aber nicht die VM, kann das Programm nicht ausgeführt werden. Also muss man diese VM installiert haben um damit zuarbeiten und Programme auszuführen.
+Nach der Kompilierung fehlt noch die VM. Ohne kann das Programm nicht ausgeführt werden. Also muss man diese VM installiert haben, um damit arbeiten zu können und um Programme auszuführen.
 
-**Vorteile**: Plattformunabhängig, meistens schneller als Interpretersprachen  
-**Nachteile**: Langsamer als Compilersprachen, Nicht Hardwarenah
+**Vorteile**: plattformunabhängig, meistens schneller als Interpretersprachen  
+**Nachteile**: langsamer als Compilersprachen, nicht hardwarenah
 
-Bytecodesprachen sind z.b **Java**, oder **C#**.
+Bytecodesprachen sind z.B **Java**, oder **C#**.
 
 ---
 
@@ -91,15 +91,15 @@ Bytecodesprachen sind z.b **Java**, oder **C#**.
 
 ---
 
-Hier erkläre ich kurz die JVM. Da wir gelernt haben dass Java eine Bytecodesprache ist, benötigt sie auch eine VM, und jetzt ratet mal was JVM heißt.  
+Hier erkläre ich kurz die JVM. Da wir gelernt haben, dass Java eine Bytecodesprache ist, benötigt sie auch eine VM. Und jetzt ratet mal was JVM heißt.  
 
 Richtig, *Java Virtual Machine* kurz ***JVM***.
-Darin wird unser gesamter Javacode verarbeitet und bei bedarf ausgeführt.
+Darin wird unser gesamter Javacode verarbeitet und bei Bedarf ausgeführt.
 
 Der Aufbau der ***JVM***: <br /> <br />
 ![JVM image](https://upload.wikimedia.org/wikipedia/commons/d/dd/JvmSpec7.png)
 
-*Sieht kompliziert aus. Ist es auch, wir kommen darauf später zurück.*
+*Sieht kompliziert aus. Ist es auch. Wir kommen darauf später zurück.*
 
 ---
 
@@ -108,7 +108,7 @@ Der Aufbau der ***JVM***: <br /> <br />
 ---
 
 ### Die JVM bzw. das JDK
-Wie gesagt benötigen wir um Java zu schreiben die JVM, aber auch zusätzliche Programme wie *JavaDoc*. Ich gehe darauf später näher ein. Wir laden uns das JDK (Java Development Kit) herunter. Ihr könnt es euch [hier](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) herunterladen. Wählt eure Plattform aus und installiert das JDK.
+Wie gesagt wird Java benötigt, umb die JVM zu schreiben. Aber auch zusätzliche Programme wie *JavaDoc*. Ich gehe darauf später näher ein. Wir laden uns das JDK (Java Development Kit) herunter. Ihr könnt es euch [hier](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) herunterladen. Wählt eure Plattform aus und installiert das JDK.
 
 
 ### Einen Editor oder eine IDE
@@ -123,7 +123,7 @@ Ich schreibe für alle drei Programme (VSCode, IntelliJ und Eclipse) einen Guide
 ## Wie geht es weiter ?
 
 Nun fragst Du dich sicher, **Und jetzt ?**
-Im nächsten Kapitel, werden wir uns die IDE Eclipse anschauen, damit alles reibungslos in die Programmierung übergehen kann. Klick dafür [hier](/docs/Editor-und-IDE/Eclipse.md).
+Im nächsten Kapitel werden wir uns die IDE Eclipse anschauen, damit alles reibungslos in die Programmierung übergehen kann. Klick dafür [hier](/docs/Editor-und-IDE/Eclipse.md).
 
-Eine weiter Sache die von Vorteil wäre ist, das Du Git lernst. Es ist ganz einfach klick dafür [hier](https://github.com/FOI-12/Getting-Started). Lies es dir in Ruhe Durch, Du findes Git im Abschnitt **Informationen** (Ganz oben).
+Eine weitere Sache, die vorteilhaft wär', ist, dass Du Git lernst. Es ist ganz einfach klick dafür [hier](https://github.com/FOI-12/Getting-Started). Lies es dir in Ruhe durch. Du findest Git im Abschnitt **Informationen** (Ganz oben).
 
