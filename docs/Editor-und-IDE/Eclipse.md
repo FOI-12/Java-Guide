@@ -19,7 +19,7 @@
 
 
 
-Um ist mit dem Programmieren anzufangen, benötigen wir natürlich ein Programm, dass uns ermöglicht Quelltexte zuschreiben. In diesem Guide nehmen wir uns die IDE **Eclipse** vor.
+Um mit dem Programmieren anzufangen, benötigen wir natürlich ein Programm, welches uns ermöglicht Quelltexte zuschreiben. In diesem Guide nehmen wir uns die IDE **Eclipse** vor.
 Eclipse eignet sich gut, um in die Java Programmierung einzusteigen. Wir beginnen nun mit der Installation. 
 
 
@@ -52,7 +52,7 @@ Wählt dort nun ***Eclipse IDE for Java Developer*** aus. Ihr werdet anschließe
 Als ersten Schritt öffnen wir Eclipse.
 
 
-Ihr findet auch bei diesem Fenster wieder.
+Ihr findet euch bei diesem Fenster wieder.
 
 
 ![Eclipse Workspace](../../images/Eclipse_First_Start.png)
@@ -95,7 +95,7 @@ Anschließend klicken wir Rechts auf den Ordner *src* mit der rechten Maustaste 
 ---
 
 
-Nach der Klassen Erstellung finden wir uns im Editor wieder. Dort stehen erstmal komische Sachen, diese könnt Ihr erstmal ignorieren. Gibt genau das in den Editor ein:
+Nach der Klassen-Erstellung finden wir uns im Editor wieder. Dort stehen erstmal komische Sachen, diese könnt Ihr erstmal ignorieren. Gibt genau das in den Editor ein:
 ```java
 public class HelloWorld {
 
@@ -116,7 +116,7 @@ public class HelloWorld {
 
 
 
-Als letztes klick Ihr oben auf den grünen Button mit dem **`>`** Zeichen. Ihr seht unten nun die Ausgabe **`Hello World`**
+Als letztes klickt Ihr oben auf den grünen Button mit dem **`>`** Zeichen. Ihr seht unten nun die Ausgabe **`Hello World`**
 
 
 ![Eclipse Ausgabe](../../images/Eclipse_Output.png)
@@ -127,4 +127,4 @@ Als letztes klick Ihr oben auf den grünen Button mit dem **`>`** Zeichen. Ihr s
 ---
 
 
-Das waren die Grundlagen von Eclipse. Ihr könnt nun endlich anfangen richtig Java zu lernen. Klick dafür einfach [hier](../Java-Tutorial/1-Unser-Erstes-Programm.md).
+Das waren die Grundlagen von Eclipse. Ihr könnt nun endlich anfangen richtig Java zu lernen. Klickt dafür einfach [hier](../Java-Tutorial/1-Unser-Erstes-Programm.md).
