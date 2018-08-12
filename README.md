@@ -6,7 +6,6 @@
 - [Die JVM](#die-jvm)
 - [Programme die wir benötigen](#programme-die-wir-benötigen)
 - [Wie geht es weiter ?](#wie-geht-es-weiter-)
-- [Anhang](#anhang)
 ---
 
 
@@ -49,7 +48,7 @@ Compilersprachen sind z.B **C**, **C++** oder auch **Assembler**.
 
 So sieht es im Prozess aus:
 
-![Compilter Image](https://www.elektronik-kompendium.de/sites/com/bilder/17052311.gif)
+![Compilter Image](images/Compiler.png)
 
 Der Prozess ist hier aber sehr **vereinfacht**.
 
@@ -67,7 +66,7 @@ Interpretersprachen sind z.b **Ruby**, **Python**, **JavaScript** oder **PHP**.
 
 Der Prozess sieht etwa so aus:
 
-![Intepreter Image](https://www.elektronik-kompendium.de/sites/com/bilder/17052312.gif)
+![Intepreter Image](images/Interpreter.png)
 
 Aber auch hier gilt, sehr **vereinfacht**.
 
@@ -128,8 +127,3 @@ Im nächsten Kapitel, werden wir uns die IDE Eclipse anschauen, damit alles reib
 
 Eine weiter Sache die von Vorteil wäre ist, das Du Git lernst. Es ist ganz einfach klick dafür [hier](https://github.com/FOI-12/Getting-Started). Lies es dir in Ruhe Durch, Du findes Git im Abschnitt **Informationen** (Ganz oben).
 
-
----
-
-#### Anhang
-<p style="font-size:80%;">Die Bilder kommen von https://www.elektronik-kompendium.de und alle Rechte gehen dort auch hin.<p/>
